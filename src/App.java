@@ -31,16 +31,6 @@ public class App {
 
         System.out.println("A média das quatro notas é: "+ média);
         
-        
-
-
-
-
-
-
-
-
-
 
     }
 }
